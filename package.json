@@ -1,0 +1,16 @@
+{
+  "name": "aterso-news",
+  "version": "1.0.0",
+  "description": "meu clone do tabnews.com.br, realizado durante o curso.dev, afins de estudos :P",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
